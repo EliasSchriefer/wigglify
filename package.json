@@ -1,0 +1,23 @@
+{
+  "name": "wigglify",
+  "version": "1.0.0",
+  "description": "Generate a wigglified String you can modify in endless/multiple ways",
+  "main": "wigglify.mjs",
+  "scripts": {
+    "test": "node --experimental-modules example.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliasSchriefer/wigglify.git"
+  },
+  "keywords": [
+    "wiggle",
+    "wigglify"
+  ],
+  "author": "EliasSchriefer",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/EliasSchriefer/wigglify/issues"
+  },
+  "homepage": "https://github.com/EliasSchriefer/wigglify#readme"
+}
