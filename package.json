@@ -1,6 +1,6 @@
 {
   "name": "wigglify",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Generate a wigglified String you can modify in endless/multiple ways",
   "main": "wigglify.mjs",
   "scripts": {

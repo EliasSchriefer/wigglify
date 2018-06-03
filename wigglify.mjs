@@ -27,7 +27,7 @@ const wigglify = ({word = "wiggle", wordCount = 3, depth = 5, levels = 3, levele
 		line += `${word}${i != wordCount - 1 ? " " : ""}`
 	}
 
-	level = `${line}
+	out = `${line}
 `
 
 	for (let i = 0; i < depth; i++){
