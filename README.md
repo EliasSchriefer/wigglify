@@ -1,5 +1,5 @@
 # Usage
-Call ```wigglify()``` to get an wigglified String returned
+Call ```wigglify()``` to get an "wigglified" String returned
 
 ## Syntax
 ```javascript
