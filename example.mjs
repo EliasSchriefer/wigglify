@@ -21,7 +21,8 @@
  * the "--experimental-modules" flag specified when starting your script. This could
  * change in the future, so please check your node version and the availability of
  * ECMAScript Modules (ESM).
- *
+ * Example start script: node --experimental-modules example.mjs
+ * 
  * Have fun!
 */
 
