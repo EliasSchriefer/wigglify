@@ -1,5 +1,5 @@
 /* USAGE:
- * Call "wigglify()" to get an wigglified String returned
+ * Call "wigglify()" to get an "wigglified" String returned
  *
  * You can also specify an options object with following options:
  * - word <String>: The word that should get repeated
