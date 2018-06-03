@@ -53,7 +53,6 @@ wiggle wiggle wiggle
   wiggle wiggle wiggle
  wiggle wiggle wiggle
 wiggle wiggle wiggle
-wiggle wiggle wiggle
  wiggle wiggle wiggle
   wiggle wiggle wiggle
    wiggle wiggle wiggle
@@ -63,7 +62,6 @@ wiggle wiggle wiggle
    wiggle wiggle wiggle
   wiggle wiggle wiggle
  wiggle wiggle wiggle
-wiggle wiggle wiggle
 wiggle wiggle wiggle
  wiggle wiggle wiggle
   wiggle wiggle wiggle
